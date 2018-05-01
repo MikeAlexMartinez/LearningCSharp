@@ -1,0 +1,10 @@
+/home/michael/Projects/csharp/code/chapter01/HelloCS/bin/Debug/netcoreapp2.0/HelloCS.deps.json
+/home/michael/Projects/csharp/code/chapter01/HelloCS/bin/Debug/netcoreapp2.0/HelloCS.runtimeconfig.json
+/home/michael/Projects/csharp/code/chapter01/HelloCS/bin/Debug/netcoreapp2.0/HelloCS.runtimeconfig.dev.json
+/home/michael/Projects/csharp/code/chapter01/HelloCS/bin/Debug/netcoreapp2.0/HelloCS.dll
+/home/michael/Projects/csharp/code/chapter01/HelloCS/bin/Debug/netcoreapp2.0/HelloCS.pdb
+/home/michael/Projects/csharp/code/chapter01/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.csproj.CoreCompileInputs.cache
+/home/michael/Projects/csharp/code/chapter01/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.AssemblyInfoInputs.cache
+/home/michael/Projects/csharp/code/chapter01/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.AssemblyInfo.cs
+/home/michael/Projects/csharp/code/chapter01/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.dll
+/home/michael/Projects/csharp/code/chapter01/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.pdb

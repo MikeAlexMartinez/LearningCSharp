@@ -1,0 +1,65 @@
+Chapter 2 Notes
+
+To comment your code use '//'.
+multi-line comments use /* */.
+
+The end of a statement should finish with a semi-colon.
+
+A statement can be made of multiple variables and expressions.
+
+e.g.
+  var fullname = firstName + lastName;
+
+A block is created using curly braces {... }
+
+A block can define a namespace, a class, a method or a statement.
+
+C# vocabulary is made up of keywords, symbols and types.
+
+Some are predefined reserved keywords:
+e.g.
+  using
+  namespace
+  class
+  static
+  int
+  string
+  double
+  bool
+  var
+  if
+  switch
+  break
+  while
+  do
+  for
+  foreach
+  ... and so on
+
+There are 79 reserved keywords and 25 contextual keywords.
+104 total.
+
+Doing or action words are called methods.
+
+the way a function or method runs depends on it's context and it's specifics,
+i.e. what arguments it's called with. This is called overloading.
+
+Nouns can e 'types', 'fields' or 'variables'.
+
+e.g. Animal = type, Head = field, Coco = variable.
+
+Strictly speaking C# provides no types. Keywords such as string that look
+like types are aliases, that represent types provided by the platform.
+
+In C# every type can be classified as a:
+  class
+  struct
+  enum
+  interface, or
+  delegate
+
+
+
+
+
+

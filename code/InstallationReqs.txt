@@ -1,0 +1,10 @@
+==================================
+#  .NET core installation steps  #
+==================================
+
+Go to here and install: https://www.microsoft.com/net/download/linux
+
+Install .net core sdk. 
+
+Add extension to VS Code.
+

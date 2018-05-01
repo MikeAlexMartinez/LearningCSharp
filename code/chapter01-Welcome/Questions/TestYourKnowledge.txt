@@ -1,0 +1,42 @@
+Test Your Knowledge
+
+1. Why can a programmer use different languages, for example C#
+and F#, to write applications that run on .NET Core? 
+Both C# and F# compile to dll files which create software programs.
+
+2. What do you type at tge prompt to build and execute C# source code?
+dotnet run
+
+3. What is the Visual C# developer settings keybard shortcut to save, 
+compile, and run an application without attaching a debugger?
+Ctrl + F5
+
+4. What is the Visual Studio Code keyboard shortcut to view 
+Integrated Terminal?
+Ctrl + `
+
+5. Is Visual studio 2017 better than Visual Studio Code?
+It has more 'features' but VS Code is getting closer to 
+being in parity with the former.
+
+6. Is .NET Core better thatn .NET Framework?
+Not better, but smaller. .NET Core consists of smaller packages
+that can operate cross platform, wheras as .NET framwork works on Windows
+only.
+
+7. How is .NET Native different to .NET Core?
+.NET Native compile to Native code and so has faster execution speed
+and a smaller memory footprint. 
+
+8. What is .NET Standard and why is it Important?
+.NET Standard is a group of packages / policies that ensure compliance
+and interopability across the different .NET standards.
+
+9. What is the difference between Git and Github?
+Git is the versioning and source control system / software whereas
+Github is a website where you can store and manage your git repositories.
+
+10. What is the name of the entry-point method of a .NET console application
+and how should is be declared?
+main(){} is primary function / entry point of a .NET console application.
+

@@ -1,0 +1,7 @@
+
+Create new folder and file.
+
+Change to parent directory and run 'dotnet new <app type>'
+
+Need to remove 'Program.cs' if not the main part of your app,
+or if running at beginning of app change the name.

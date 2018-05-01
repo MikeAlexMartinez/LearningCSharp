@@ -1,0 +1,10 @@
+/home/michael/Projects/csharp/code/chapter02-SpeakingC#/Basics/bin/Debug/netcoreapp2.0/Basics.deps.json
+/home/michael/Projects/csharp/code/chapter02-SpeakingC#/Basics/bin/Debug/netcoreapp2.0/Basics.runtimeconfig.json
+/home/michael/Projects/csharp/code/chapter02-SpeakingC#/Basics/bin/Debug/netcoreapp2.0/Basics.runtimeconfig.dev.json
+/home/michael/Projects/csharp/code/chapter02-SpeakingC#/Basics/bin/Debug/netcoreapp2.0/Basics.dll
+/home/michael/Projects/csharp/code/chapter02-SpeakingC#/Basics/bin/Debug/netcoreapp2.0/Basics.pdb
+/home/michael/Projects/csharp/code/chapter02-SpeakingC#/Basics/obj/Debug/netcoreapp2.0/Basics.csproj.CoreCompileInputs.cache
+/home/michael/Projects/csharp/code/chapter02-SpeakingC#/Basics/obj/Debug/netcoreapp2.0/Basics.AssemblyInfoInputs.cache
+/home/michael/Projects/csharp/code/chapter02-SpeakingC#/Basics/obj/Debug/netcoreapp2.0/Basics.AssemblyInfo.cs
+/home/michael/Projects/csharp/code/chapter02-SpeakingC#/Basics/obj/Debug/netcoreapp2.0/Basics.dll
+/home/michael/Projects/csharp/code/chapter02-SpeakingC#/Basics/obj/Debug/netcoreapp2.0/Basics.pdb
