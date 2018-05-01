@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/HandlingExceptions.csproj",
+      "projectUniqueName": "/home/michael/Projects/csharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/HandlingExceptions.csproj",
       "projectName": "HandlingExceptions",
-      "projectPath": "/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/HandlingExceptions.csproj",
+      "projectPath": "/home/michael/Projects/csharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/HandlingExceptions.csproj",
       "packagesPath": "/home/michael/.nuget/packages/",
-      "outputPath": "/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/obj/",
+      "outputPath": "/home/michael/Projects/csharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

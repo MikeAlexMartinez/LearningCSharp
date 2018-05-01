@@ -7,7 +7,8 @@ namespace testing
     {
         static void Main(string[] args)
         {
-            for ( ; true ; ) ;
+            WriteLine(byte.MaxValue);
+            WriteLine(byte.MinValue);
         }
     }
 }

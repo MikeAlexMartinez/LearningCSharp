@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/SelectionStatements/SelectionStatements.csproj",
+      "projectUniqueName": "/home/michael/Projects/csharp/LearningCSharp/code/chapter03-FlowAndConversion/SelectionStatements/SelectionStatements.csproj",
       "projectName": "SelectionStatements",
-      "projectPath": "/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/SelectionStatements/SelectionStatements.csproj",
+      "projectPath": "/home/michael/Projects/csharp/LearningCSharp/code/chapter03-FlowAndConversion/SelectionStatements/SelectionStatements.csproj",
       "packagesPath": "/home/michael/.nuget/packages/",
-      "outputPath": "/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/SelectionStatements/obj/",
+      "outputPath": "/home/michael/Projects/csharp/LearningCSharp/code/chapter03-FlowAndConversion/SelectionStatements/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
