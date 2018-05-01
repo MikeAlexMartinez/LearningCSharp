@@ -1,0 +1,23 @@
+What types would you use for the following?
+1. A person's telephone number?
+string
+2. A peron's height?
+double
+3. A person's age?
+int
+4. A person's salary?
+decimal
+5. A book's ISBN?
+long
+6. A book's price?
+decimal
+7. a book's shipping weight?
+double
+8. a country's population?
+double
+9. The numbers of stars in the Universe
+double
+10. The number of employees in each of the small or medium businesses in the uk?
+int
+
+ 

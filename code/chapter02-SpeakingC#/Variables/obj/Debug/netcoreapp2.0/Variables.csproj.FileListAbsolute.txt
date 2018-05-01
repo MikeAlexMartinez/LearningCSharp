@@ -1,0 +1,10 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Variables/obj/Debug/netcoreapp2.0/Variables.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Variables/obj/Debug/netcoreapp2.0/Variables.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Variables/obj/Debug/netcoreapp2.0/Variables.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Variables/bin/Debug/netcoreapp2.0/Variables.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Variables/bin/Debug/netcoreapp2.0/Variables.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Variables/bin/Debug/netcoreapp2.0/Variables.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Variables/bin/Debug/netcoreapp2.0/Variables.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Variables/bin/Debug/netcoreapp2.0/Variables.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Variables/obj/Debug/netcoreapp2.0/Variables.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Variables/obj/Debug/netcoreapp2.0/Variables.pdb

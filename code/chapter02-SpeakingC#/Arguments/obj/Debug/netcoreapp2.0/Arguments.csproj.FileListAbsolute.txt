@@ -1,0 +1,10 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Arguments/bin/Debug/netcoreapp2.0/Arguments.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Arguments/bin/Debug/netcoreapp2.0/Arguments.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Arguments/bin/Debug/netcoreapp2.0/Arguments.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Arguments/bin/Debug/netcoreapp2.0/Arguments.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Arguments/bin/Debug/netcoreapp2.0/Arguments.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Arguments/obj/Debug/netcoreapp2.0/Arguments.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Arguments/obj/Debug/netcoreapp2.0/Arguments.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Arguments/obj/Debug/netcoreapp2.0/Arguments.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Arguments/obj/Debug/netcoreapp2.0/Arguments.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Arguments/obj/Debug/netcoreapp2.0/Arguments.pdb

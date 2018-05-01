@@ -69,3 +69,85 @@ Single text stored in char type with single quotes
 
 multiple letters stored in string type and uses double quotes.
 
+Numbers:
+  'int' use 4 bytes and can store positive or negative numbers upto about 2 billion.
+  'double' uses 8 bytes and can store a much bigger value.
+  'decimal' use 16 bytes, it can store large numbers but not as large as Double.
+
+double type does not guarrantee to be accurate due to the nature of decimal storage in numbers.
+
+Never compare double values using ==.
+
+Use 'int' for whole numbers, and double for real numbers. Use decimal for money, CAD drawings, 
+general engineering and wherever accuracy of a real number is very important.
+
+double has special useful values such as NaN, Epsilon and Infinity.
+
+Booleans can only be true or false.
+
+The special type object can be used for any type of data but have poor performance due to
+unboxing and boxing of values. 'generics' are more useful.
+
+There is a 'dynamic' types that can store any data.
+
+'Local variables' are declared inside methods and only exist during the call to that method.
+
+value types are released while reference types must wait for a garbage collection.
+
+Using a var keyword to declare local variables means the compiler will infer the type from the 
+literal value provided.
+
+2 = int,
+2L = long,
+2.0 = double,
+2.0M = decimal,
+2.0F = float,
+"a" = string,
+'a' = char,
+true = bool
+
+Use of var is down to personal preference. The important thing to maintain is the intentions
+of the code. Is the type obvious even if the type isn't declared.
+
+most primitive types are 'value types' except string, which means they must have a value. You
+can determine the default value of a variable by using the default() operator.
+
+strings are reference types, i.e. they contain the memory address of a variable, not the value
+of the variable itself.
+
+You can allow a type to be nullable by using the ? after the type declaration.
+
+In C# 8 reference types will no longer be nullable be default.
+
+One needs to check for null else they risk a NullReferenceException error being thrown.
+
+You can use if statements, a ?. check operator, or a null-coalescing operator ??
+
+To store multiple values of the same type you can declare an array.
+
+We can get data from the user using the ReadLine method.
+
+Operating on variables.
+
+Most operators are binary i.e. they operate on two variables.
+
+Some are unary (i.e. they operate on one variable).
+
+Some are ternary (i.e. the work on threee operands).
+
+unary operators either operate prefix or postfix e.g.
+
+prefix
+int x = 3;
+int y = x++;
+// x = 4;
+// y = 3;
+
+postfix
+int x = 3;
+int y = ++x;
+// x = 4;
+// y = 4;
+
+Due to confusion with variables and pre/postfix assignment you are better
+off not using unary operators and assignments in the same statement.

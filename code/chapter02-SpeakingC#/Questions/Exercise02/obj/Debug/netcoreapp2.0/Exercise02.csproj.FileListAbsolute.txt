@@ -1,0 +1,10 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Questions/Exercise02/bin/Debug/netcoreapp2.0/Exercise02.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Questions/Exercise02/bin/Debug/netcoreapp2.0/Exercise02.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Questions/Exercise02/bin/Debug/netcoreapp2.0/Exercise02.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Questions/Exercise02/bin/Debug/netcoreapp2.0/Exercise02.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Questions/Exercise02/bin/Debug/netcoreapp2.0/Exercise02.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Questions/Exercise02/obj/Debug/netcoreapp2.0/Exercise02.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Questions/Exercise02/obj/Debug/netcoreapp2.0/Exercise02.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Questions/Exercise02/obj/Debug/netcoreapp2.0/Exercise02.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Questions/Exercise02/obj/Debug/netcoreapp2.0/Exercise02.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Questions/Exercise02/obj/Debug/netcoreapp2.0/Exercise02.pdb

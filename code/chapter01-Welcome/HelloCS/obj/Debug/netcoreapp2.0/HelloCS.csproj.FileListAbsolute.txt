@@ -18,3 +18,13 @@
 /home/michael/Projects/csharp/LearningCSharp/code/chapter01-Welcome/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.AssemblyInfo.cs
 /home/michael/Projects/csharp/LearningCSharp/code/chapter01-Welcome/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.dll
 /home/michael/Projects/csharp/LearningCSharp/code/chapter01-Welcome/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter01-Welcome/HelloCS/bin/Debug/netcoreapp2.0/HelloCS.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter01-Welcome/HelloCS/bin/Debug/netcoreapp2.0/HelloCS.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter01-Welcome/HelloCS/bin/Debug/netcoreapp2.0/HelloCS.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter01-Welcome/HelloCS/bin/Debug/netcoreapp2.0/HelloCS.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter01-Welcome/HelloCS/bin/Debug/netcoreapp2.0/HelloCS.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter01-Welcome/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter01-Welcome/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter01-Welcome/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter01-Welcome/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter01-Welcome/HelloCS/obj/Debug/netcoreapp2.0/HelloCS.pdb

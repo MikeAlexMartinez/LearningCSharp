@@ -1,0 +1,10 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Numbers/bin/Debug/netcoreapp2.0/Numbers.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Numbers/bin/Debug/netcoreapp2.0/Numbers.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Numbers/bin/Debug/netcoreapp2.0/Numbers.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Numbers/bin/Debug/netcoreapp2.0/Numbers.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Numbers/bin/Debug/netcoreapp2.0/Numbers.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Numbers/obj/Debug/netcoreapp2.0/Numbers.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Numbers/obj/Debug/netcoreapp2.0/Numbers.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Numbers/obj/Debug/netcoreapp2.0/Numbers.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Numbers/obj/Debug/netcoreapp2.0/Numbers.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter02-SpeakingC#/Numbers/obj/Debug/netcoreapp2.0/Numbers.pdb
