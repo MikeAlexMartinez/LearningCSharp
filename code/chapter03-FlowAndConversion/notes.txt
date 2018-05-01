@@ -55,3 +55,16 @@ The Convert type has a pair of methods:
 Second most common conversion is from strings to numbers or date and time values.
 Only a few types have a Parse method, including all the number types and DateTime.
 
+If inappropriate value given to Parse a FormatException is thrown.
+
+TryParse allows you to attempt to parse the statement. It returns false if not valid.
+
+Catching exceptions
+
+You can use try and catch blocks to catch potential errors. You can distinguish the
+type of error so that the response given is specific to the error.
+
+Using a 'checked' block we can check for any potential overflows.
+
+Using the 'unchecked' statement is the opposite of checked. It switches off compile time checks
+and prevents the error being thrown.

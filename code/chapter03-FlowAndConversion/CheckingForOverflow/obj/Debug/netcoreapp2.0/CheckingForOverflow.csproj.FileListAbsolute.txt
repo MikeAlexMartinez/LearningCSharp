@@ -1,0 +1,10 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/CheckingForOverflow/obj/Debug/netcoreapp2.0/CheckingForOverflow.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/CheckingForOverflow/obj/Debug/netcoreapp2.0/CheckingForOverflow.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/CheckingForOverflow/obj/Debug/netcoreapp2.0/CheckingForOverflow.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/CheckingForOverflow/bin/Debug/netcoreapp2.0/CheckingForOverflow.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/CheckingForOverflow/bin/Debug/netcoreapp2.0/CheckingForOverflow.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/CheckingForOverflow/bin/Debug/netcoreapp2.0/CheckingForOverflow.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/CheckingForOverflow/bin/Debug/netcoreapp2.0/CheckingForOverflow.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/CheckingForOverflow/bin/Debug/netcoreapp2.0/CheckingForOverflow.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/CheckingForOverflow/obj/Debug/netcoreapp2.0/CheckingForOverflow.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/CheckingForOverflow/obj/Debug/netcoreapp2.0/CheckingForOverflow.pdb

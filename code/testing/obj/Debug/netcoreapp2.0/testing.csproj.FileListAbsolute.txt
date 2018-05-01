@@ -1,0 +1,10 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/testing/bin/Debug/netcoreapp2.0/testing.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/testing/bin/Debug/netcoreapp2.0/testing.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/testing/bin/Debug/netcoreapp2.0/testing.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/testing/bin/Debug/netcoreapp2.0/testing.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/testing/bin/Debug/netcoreapp2.0/testing.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/testing/obj/Debug/netcoreapp2.0/testing.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/testing/obj/Debug/netcoreapp2.0/testing.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/testing/obj/Debug/netcoreapp2.0/testing.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/testing/obj/Debug/netcoreapp2.0/testing.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/testing/obj/Debug/netcoreapp2.0/testing.pdb

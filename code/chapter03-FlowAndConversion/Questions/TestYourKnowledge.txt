@@ -1,0 +1,40 @@
+1. Where would you look for help about a C# keyword?
+You can check MSDN's documentation, you can also use
+go to definition if it works.
+
+2. Where would you look for solutions for common programming problems?
+https://en.wikipedia.org/wiki/Software_design_pattern#Classification_and_list
+
+3. What happens when you divide an int variable by 0?
+A 'DivideByZeroException' is thrown.
+
+4. What happens when you divide a double variable by 0?
+double.Infinity is returned.
+
+5. What happens when you overflow an int variable, that is, set it to a value
+beyond its range?
+Depending on the context of how the variable is set a number of things can happen.
+if regular assignment value will need to be cast and an error will be thrown.
+if value in range is incremented/decremented out of range value roll around to appropriate value.
+if in checked block, inc/dec will cause an OverflowError.
+If unchecked value will roll around.
+
+6. What is the difference between x = y++; and x = ++y; ?
+the former sets x to the value of y before incrementing y.
+the latter increments y and then sets x to the value of y post-incrementation.
+
+7. What is the difference between break, continue, and return when used inside 
+a loop statement?
+break terminates the loop early,
+continue, continues the loop,
+return, will exit the method / function call.
+
+8. What are the three parts of a for statement and which of them are required?
+setting variables in the first part, a condition to test for is the second and 
+a value by which to increment is the third. Only the second condition is required.
+
+9. what is the difference between the = and == operators?
+= is the assignment operator and == is a comparison operator.
+
+10. does the following statement compile? for ( ; true ; ) ;
+The statement compiles but causes an infinite loop as the value is always true.

@@ -19,7 +19,7 @@ namespace Exercise02
             WriteLine($"| {"ulong", 8} | {sizeof(ulong), 4} | {ulong.MinValue, 22}| {ulong.MaxValue, 21} |");
             WriteLine($"| {"float", 8} | {sizeof(float), 4} | {float.MinValue, 22}| {float.MaxValue, 21} |");
             WriteLine($"| {"double", 8} | {sizeof(double), 4} | {double.MinValue, 22}| {double.MaxValue, 21} |");
-            WriteLine($"| {"decimal", 8} | {sizeof(decimal), 4} | {decimal.MinValue, }| {decimal.MaxValue, 21} |");
+            WriteLine($"| {"decimal", 8} | {sizeof(decimal), 4} | {decimal.MinValue, 22}| {decimal.MaxValue, 21} |");
             
             /*WriteLine($"byte uses {sizeof(byte)} bytes and the smallest value it can hold is {byte.MinValue:N0}, while the largest value it can hold is {byte.MaxValue:N0}");
             WriteLine($"short uses {sizeof(short)} bytes and the smallest value it can hold is {short.MinValue:N0}, while the largest value it can hold is {short.MaxValue:N0}");            

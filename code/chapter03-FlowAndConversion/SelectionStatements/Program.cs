@@ -182,7 +182,7 @@ namespace SelectionStatements
             
             Split("string conversions");
             int num = 12;
-            WriteLine(number.ToString());
+            WriteLine(num.ToString());
             bool boolean = true;
             WriteLine(boolean.ToString());
             DateTime now = DateTime.Now;
@@ -209,6 +209,26 @@ namespace SelectionStatements
             string encoded = Convert.ToBase64String(binaryObject);
 
             WriteLine($"Binary Object as Base64: {encoded}");
+
+            Split("Parse String Methods");
+            int age = int.Parse("27");
+            DateTime birthday = DateTime.Parse("4 July 1980");
+            WriteLine($"I was born {age} years ago.");
+            WriteLine($"My birthday is {birthday}.");
+            WriteLine($"My birthday is {birthday:D}.");
+
+            Split("TryParse()");
+            Write("How many eggs are there? ");
+            int count;
+            string input = Console.ReadLine();
+            if (int.TryParse(input, out count))
+            {
+                WriteLine($"There are {count} eggs.");
+            }
+            else
+            {
+                WriteLine("I could not parse the input");
+            }
         }
     }
 }

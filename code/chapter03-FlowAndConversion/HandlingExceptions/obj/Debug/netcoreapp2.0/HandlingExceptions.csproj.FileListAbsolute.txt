@@ -1,0 +1,10 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/obj/Debug/netcoreapp2.0/HandlingExceptions.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/obj/Debug/netcoreapp2.0/HandlingExceptions.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/obj/Debug/netcoreapp2.0/HandlingExceptions.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/bin/Debug/netcoreapp2.0/HandlingExceptions.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/bin/Debug/netcoreapp2.0/HandlingExceptions.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/bin/Debug/netcoreapp2.0/HandlingExceptions.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/bin/Debug/netcoreapp2.0/HandlingExceptions.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/bin/Debug/netcoreapp2.0/HandlingExceptions.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/obj/Debug/netcoreapp2.0/HandlingExceptions.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter03-FlowAndConversion/HandlingExceptions/obj/Debug/netcoreapp2.0/HandlingExceptions.pdb

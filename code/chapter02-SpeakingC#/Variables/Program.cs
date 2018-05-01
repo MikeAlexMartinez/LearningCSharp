@@ -21,14 +21,14 @@ namespace Variables
       double weight = 1.88; // in kilograms
       decimal price = 4.99M; // in pounds sterling
       string fruit = "Apples"; // strings use double-quotes
-      char letter = 'Z'; // chars use single-quotes
-      bool happy = true; // Booleans have a value of true or false.
+      // char letter = 'Z'; // chars use single-quotes
+      // bool happy = true; // Booleans have a value of true or false.
 
       WriteLine($"{default(int)}"); // 0
       WriteLine($"{default(bool)}"); // False
       WriteLine($"{default(DateTime)}"); // 1/01/0001 00:00:00
 
-      int ICannotBeNull = 4;
+      // int ICannotBeNull = 4;
       int? ICouldBeNull = null;
       WriteLine(ICouldBeNull.GetValueOrDefault()); // 0
       ICouldBeNull = 4;

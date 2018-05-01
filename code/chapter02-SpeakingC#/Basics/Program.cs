@@ -8,8 +8,8 @@ namespace Basics
   {
     static void Main(string[] args)
     {
-      System.Data.DataSet ds;
-      System.Net.Http.HttpClient client;
+      // System.Data.DataSet ds;
+      // System.Net.Http.HttpClient client;
       
       WriteLine("Hello World!");
       WriteLine("Hello Agani!");
