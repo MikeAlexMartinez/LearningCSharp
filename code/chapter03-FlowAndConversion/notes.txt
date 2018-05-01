@@ -1,0 +1,57 @@
+Chapter 3 - Controlling the Flow and Converting Types.
+
+if statement as usual. Uses { } to define block, if 
+a single statement is used then brackets are optional
+but I would keep if I were you!
+
+Pattern matching allows you to assert a type before 
+performing an operation on it.
+
+Switch statement
+  allows comapring a value to possible outcomes.
+  need to use break to exit, 
+  can use goto case keyword to move to different value.
+  you can define a default. always evaluated last.
+  you can define a null case. 
+
+iteration statements:
+  while
+  for
+  do while
+
+  foreach. This works on any type that implements the an
+  interface called IEnumerable
+
+Casting and Converting
+Implicit casting happens automatically and it is safe.
+Explicit casting is manual and may result in loss of information. 
+
+Casting
+Explicit conversion requires use of round brackets to convert the type.
+double c = 9.8;
+int d = (int)c;
+
+casting from to a number type with an out or range value results in -1.
+
+System.Convert
+
+Methods provided to Explicitly convert types. 
+Difference between casting is this will round the double value instead
+of trimming it.
+
+Uses Bankers rounding. (if non decimal is .5 and even down, .5 and odd up)
+
+Javascript uses primary school rule.
+
+All types have a ToString() method.
+
+When transmitting information you are best to encode those bits into a string of safe characters
+Programmers call this Base64 encoding.
+
+The Convert type has a pair of methods:
+  ToBase64String()
+  FromBase64String()
+
+Second most common conversion is from strings to numbers or date and time values.
+Only a few types have a Parse method, including all the number types and DateTime.
+
