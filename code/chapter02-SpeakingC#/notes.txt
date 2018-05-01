@@ -58,8 +58,14 @@ In C# every type can be classified as a:
   interface, or
   delegate
 
+Whe building an app you should consider how much memory / storage it requires
+and secondly, how fast it runs.
 
+Naming Conventions:
+  camelCase = Local Variables and Private Members
+  PascalCase = Type names and non-private Members
 
+Single text stored in char type with single quotes
 
-
+multiple letters stored in string type and uses double quotes.
 
