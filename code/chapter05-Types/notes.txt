@@ -1,0 +1,42 @@
+Chapter 5 - OOP
+
+In C# we use class (usually) or struct (rarely) to define each type of object. You can think
+of a type as being a blueprint or template for an object.
+
+OOP Concepts:
+  Encapsulation:- Combination of the data and actions that are related to an object. With
+    encapsulation you often want to control access to those actions and the data.
+
+  Composition:- is about what an objject is made of. e.g. Car has wheels an engine etc.
+
+  Aggregation:- What is related to the object and how does this change in different 
+    contexts.
+  
+  Inheritance:- Is about reusing code by have a class having a subclass or deriving from
+    a base or super class. Functionality in base class is available in derived class.
+
+  Abstraciton:- Is about capturing the core idea of an object and hiding the details and
+    complexity.
+
+  Polymorphism:- Is about allowing a derived calss to override an inherited action to 
+    provide custom behaviour.
+
+Classes that you might reuse across projects and 'Solutions' should be ouot into a .NET 
+standard library so they can be used in numerous projects.
+
+public as in 'public class Person' is an access modifier. Without this it would only be 
+accessible within the assembly.
+
+Mmeber can be 'fields', 'methods', or specialized versions of both.
+  - Fields: are used to store data. Three specialised categories of fields.
+    ~ Constants: The data in the field never changes.
+    ~ Read-only fields: The data cannot change after the class is instantiated.
+    ~ Events: This refers to methods that you want to call automatically when something
+        happens.
+  - Methods: are used to execute statements. Four types of methods.
+    ~ Constructors: These are methods that execute when you use the new keyword to allocate
+        memory and instantiate a class.
+    ~ Properties: These are the methods that execute when you want to access data.
+    ~ Indexers: These are methods that you execute when you want to access data.
+    ~ Operators: These are methods you use when you want to apply an operator.
+

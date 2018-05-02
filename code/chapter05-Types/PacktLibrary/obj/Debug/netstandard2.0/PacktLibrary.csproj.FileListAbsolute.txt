@@ -1,0 +1,8 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter05-Types/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter05-Types/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter05-Types/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter05-Types/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter05-Types/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter05-Types/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter05-Types/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter05-Types/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.pdb
