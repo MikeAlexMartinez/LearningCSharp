@@ -8,30 +8,32 @@ namespace ex02
     {
         static void Divisor()
         {
-            Write("Enter a number between 0 and 255: ");
-            string a = ReadLine();
-            Write("Enter another number between 0 and 255: ");
-            string b = ReadLine();
-            int c;
-            int d;
-            decimal e;
+            string a;
+            string b;
+            decimal c;
+            decimal d;
+            byte max = 255;
+            byte min = 0;
 
-            try
+            Write("Enter a number between 0 and 255: ");
+            a = ReadLine();
+            if (decimal.TryParse(a, out c) && c < max && c > min)
             {
-                c = (int)a;
-                d = (int)b;
-                e = (decimal)(a / b);
+                Write("Enter another number between 0 and 255: ");
+                b = ReadLine();
+                if (decimal.TryParse(b, out d) && d < max && d > min)
+                {
+                    WriteLine($"{c} divided by {d} is {c / d}");
+                }
+                else
+                {
+                    WriteLine("FormatException: Input string was not in a correct format");
+                }
             }
-            catch (FormatException)
+            else
             {
                 WriteLine("FormatException: Input string was not in a correct format");
             }
-            catch (Exception ex)
-            {
-                WriteLine($"{ex.GetType()}: {ex.Message}");
-            }
-
-            WriteLine($"${c} divided by {d} is {e}");
         }
         
         static void FizzBuzz()
@@ -69,9 +71,10 @@ namespace ex02
             // therefore it never ends
             try
             {
+                // checked block catches overflow
                 checked
                 {
-                    for (byte i = 0; i < 500; i++) {
+                    for (byte i = 0; i < max; i++) {
                         WriteLine(i);
                     }
                 }
@@ -83,6 +86,7 @@ namespace ex02
 
             WriteLine();
             FizzBuzz();
+            Divisor();
         }
     }
 }
