@@ -1,0 +1,40 @@
+1. What does the C# keyword void mean?
+void means nothing is returned from the method.
+
+2. how many parameters can a C# method have?
+the number of parameters is limited by the memory of the machine.
+
+3. In Visual Studio Code... (don't care)
+
+4. Where does the Trace.WriteLine method write it's output to?
+The Writeline method is written to a buffer which can be flushed as
+necessary.
+
+5. What are the 5 trace levels?
+None
+Error
+Warning
+Info
+Verbose
+
+6. What is the different between Debug and Trace?
+Debug statements won't be compiled for runtime but are active during development.
+Trace statements will still be present at runtime.
+
+7. When writing unit tests, what are the three A's?
+arrange - declare necessary variables etc
+act - perform action
+assert - assert result of action is as expected.
+
+8. When writing a unit test uing xUnit, waht attribute must you decorate the test
+methods with?
+[Fact]
+
+9. what dotnet command executes xUnit tests?
+dotnet test
+
+10. What is TDD?
+Test Driven Development
+Where you formulate tests before writing code in order to describe the
+necessary functionality of the code to be written. The code is later written
+in order to pass the necessary tests.

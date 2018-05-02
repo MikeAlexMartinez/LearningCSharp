@@ -1,0 +1,8 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactors/obj/Debug/netstandard2.0/PrimeFactors.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactors/obj/Debug/netstandard2.0/PrimeFactors.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactors/obj/Debug/netstandard2.0/PrimeFactors.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactors/bin/Debug/netstandard2.0/PrimeFactors.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactors/bin/Debug/netstandard2.0/PrimeFactors.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactors/bin/Debug/netstandard2.0/PrimeFactors.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactors/obj/Debug/netstandard2.0/PrimeFactors.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactors/obj/Debug/netstandard2.0/PrimeFactors.pdb

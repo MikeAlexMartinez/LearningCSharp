@@ -1,0 +1,16 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/obj/Debug/netcoreapp2.0/PrimeFactorsUnitTests.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/obj/Debug/netcoreapp2.0/PrimeFactorsUnitTests.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/obj/Debug/netcoreapp2.0/PrimeFactorsUnitTests.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/bin/Debug/netcoreapp2.0/PrimeFactorsUnitTests.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/bin/Debug/netcoreapp2.0/PrimeFactorsUnitTests.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/bin/Debug/netcoreapp2.0/PrimeFactorsUnitTests.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/bin/Debug/netcoreapp2.0/PrimeFactorsUnitTests.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/bin/Debug/netcoreapp2.0/PrimeFactorsUnitTests.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/bin/Debug/netcoreapp2.0/PrimeFactors.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/bin/Debug/netcoreapp2.0/PrimeFactors.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/obj/Debug/netcoreapp2.0/PrimeFactorsUnitTests.csproj.CopyComplete
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/obj/Debug/netcoreapp2.0/PrimeFactorsUnitTests.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Questions/PrimeFactorsUnitTests/obj/Debug/netcoreapp2.0/PrimeFactorsUnitTests.pdb

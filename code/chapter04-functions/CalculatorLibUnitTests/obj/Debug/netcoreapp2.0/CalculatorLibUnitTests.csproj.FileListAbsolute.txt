@@ -1,0 +1,16 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/obj/Debug/netcoreapp2.0/CalculatorLibUnitTests.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/obj/Debug/netcoreapp2.0/CalculatorLibUnitTests.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/obj/Debug/netcoreapp2.0/CalculatorLibUnitTests.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLibUnitTests.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLibUnitTests.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLibUnitTests.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLibUnitTests.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLibUnitTests.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLib.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLib.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/obj/Debug/netcoreapp2.0/CalculatorLibUnitTests.csproj.CopyComplete
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/obj/Debug/netcoreapp2.0/CalculatorLibUnitTests.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLibUnitTests/obj/Debug/netcoreapp2.0/CalculatorLibUnitTests.pdb

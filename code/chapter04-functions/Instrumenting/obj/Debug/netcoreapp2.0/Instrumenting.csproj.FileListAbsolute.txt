@@ -1,0 +1,10 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Instrumenting/bin/Debug/netcoreapp2.0/Instrumenting.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Instrumenting/bin/Debug/netcoreapp2.0/Instrumenting.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Instrumenting/bin/Debug/netcoreapp2.0/Instrumenting.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Instrumenting/bin/Debug/netcoreapp2.0/Instrumenting.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Instrumenting/bin/Debug/netcoreapp2.0/Instrumenting.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Instrumenting/obj/Debug/netcoreapp2.0/Instrumenting.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Instrumenting/obj/Debug/netcoreapp2.0/Instrumenting.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Instrumenting/obj/Debug/netcoreapp2.0/Instrumenting.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Instrumenting/obj/Debug/netcoreapp2.0/Instrumenting.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/Instrumenting/obj/Debug/netcoreapp2.0/Instrumenting.pdb

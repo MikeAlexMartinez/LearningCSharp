@@ -1,0 +1,23 @@
+Chapter 4 Notes
+
+Debugging:
+
+The debyg and Trace methods provide flexibility on where they write to.
+
+There are several trace listeners provided by .NET Core, and you can even make your own
+by inheriting from the TraceListener Type.
+
+Debug isn't compiled for production so can be used liberally during testing / debugging.
+
+Trace levels can be changed with a trace switch.
+
+|--------|---------|--------------------------------------------|
+| Number | Word    | Description                                |
+|--------|---------|--------------------------------------------|
+| 0      | Off     | This will output nothing                   |
+| 1      | Error   | This will output only errors               |
+| 2      | Warning | This will output errors and warnings       |
+| 3      | Info    | This will output errors, warnings and info |
+| 4      | Verbose | This will output everything                |
+|--------|---------|--------------------------------------------|
+

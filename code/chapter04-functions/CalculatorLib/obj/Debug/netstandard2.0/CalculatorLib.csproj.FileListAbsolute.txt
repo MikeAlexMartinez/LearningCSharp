@@ -1,0 +1,8 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLib/bin/Debug/netstandard2.0/CalculatorLib.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLib/bin/Debug/netstandard2.0/CalculatorLib.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLib/bin/Debug/netstandard2.0/CalculatorLib.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLib/obj/Debug/netstandard2.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLib/obj/Debug/netstandard2.0/CalculatorLib.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLib/obj/Debug/netstandard2.0/CalculatorLib.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLib/obj/Debug/netstandard2.0/CalculatorLib.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/CalculatorLib/obj/Debug/netstandard2.0/CalculatorLib.pdb

@@ -1,0 +1,10 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/WritingFunctions/bin/Debug/netcoreapp2.0/WritingFunctions.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/WritingFunctions/bin/Debug/netcoreapp2.0/WritingFunctions.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/WritingFunctions/bin/Debug/netcoreapp2.0/WritingFunctions.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/WritingFunctions/bin/Debug/netcoreapp2.0/WritingFunctions.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/WritingFunctions/bin/Debug/netcoreapp2.0/WritingFunctions.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/WritingFunctions/obj/Debug/netcoreapp2.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/WritingFunctions/obj/Debug/netcoreapp2.0/WritingFunctions.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/WritingFunctions/obj/Debug/netcoreapp2.0/WritingFunctions.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/WritingFunctions/obj/Debug/netcoreapp2.0/WritingFunctions.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter04-functions/WritingFunctions/obj/Debug/netcoreapp2.0/WritingFunctions.pdb
