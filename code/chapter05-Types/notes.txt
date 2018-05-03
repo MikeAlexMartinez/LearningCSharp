@@ -40,3 +40,47 @@ Mmeber can be 'fields', 'methods', or specialized versions of both.
     ~ Indexers: These are methods that you execute when you want to access data.
     ~ Operators: These are methods you use when you want to apply an operator.
 
+All object implicitly inherit from System.Object or the alias object.
+
+Access Modifiers:
+  - private: Member only accessible inside the type only. This is the default.
+  - internal: Member is accessible inside the type and any type in the same assembly.
+  - protected: Member is accessible inside the type and any type that inherits from the types.
+  - public: Member is accessible everywhere.
+  - internal protected: member is accessible inside the type, any type in the same assembly,
+      and any type that inherits from the type.
+
+You should explicitly apply modifiers to all type members. members should normally be private
+or protected and then public properties to get and set the values should be used.
+
+Enum: When yuo want a limited number of options the enum type is ideal. INternally it uses
+int values with a look up table of string descriptions.
+
+To create combinations one can use different data structures to store them.
+e.g. byte for 8, short for 16, int for 32 and long for 64.
+
+Generics means a strongly typed collection.
+
+consts should be avoiuded for two reasons:
+  - The value must be known at compile time, and it must be expressable
+  as a literal string, boolean or number.
+  - Every reference to const is changed at compile time and will therefore
+  not be reflected in future versions if changed.
+
+Making fields read only is preferable as then they still can't be changed.
+This way instead of being compiled into the actual value, the program maintains
+a live reference to this changeable value. It can also be set in a constructor 
+and can be set using any executable statement.
+
+You can initialize values to there default type value if required.
+' Name = default(string); '
+
+' Name = default ' C#7.1 and later
+
+You can 'overload' methods by writing methods with differing signatures. (different parameters)
+The different parameters will identify the correct method to use.
+
+Parameters can be passed in three ways: 
+  By value (default)
+  By Reference (as a ref parameter)
+  As an Out parameter. (these are out only.)

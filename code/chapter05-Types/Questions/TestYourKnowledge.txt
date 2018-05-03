@@ -1,0 +1,43 @@
+1. What are the four access modifiers and what do they do?
+public - accessible everywhere
+private - only accessible in the class code
+readonly - accessible by instances of the class, can't be modified
+public readonly - accessible everywhere, cant be modified.
+
+2. static, const, readonly
+static - value available across all instances of a class.
+const - value is set and can't change at runtime. during compilation
+  all references to const are changed to actual value.
+readonly - means property is only able to be read, not changed.
+
+3. What does a contructor do?
+It initializes an instance of an object, assigning defined properties
+and returning an instance of the object.
+
+4. Why do you need to apply the [Flags] attribute to an enum keyword
+when you want to store combined values?
+So that the compiler knows the enum can contain more than one value.
+
+5. why is the parital keyword useful?
+It allows you to create more modular class code, allowing multiple people
+to work on a class simultaneously.
+
+6. What is a tuple?
+allows storage of multiple types of values in a single object / data structure.
+
+7. What does the ref keyword do?
+the ref keyword tells a method that a reference to a variable is being passed
+so any method scoped changes to that variable will change the originally passed
+variable in the outer scope also.
+
+8. What does overloading mean?
+Creating methods of the same name with differing signatures is overloading
+the method. the signature used will define which method actually runs.
+
+9. What is the difference between a field and property?
+A field is a regular variable used within a class / method to store data.
+a property is a data storing value on an object that may or may not be accessible
+outside of that object.
+
+10. How do you make a method parameter optional?
+Apply a default value to the paramter and it becomes optional.
