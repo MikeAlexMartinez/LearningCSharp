@@ -6,7 +6,7 @@ namespace PeopleApp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Chapter05()
         {
             var p1 = new Person();
             p1.Name = "Bob Smith";
@@ -126,6 +126,113 @@ namespace PeopleApp
             {
                 WriteLine($"{ex.GetType()}: {ex.Message}");
             }
+        }
+
+        static void Chapter06()
+        {
+            var harry = new Person { Name = "Harry" };
+            var mary = new Person { Name = "Mary" };
+            var jill = new Person { Name = "Jill" };
+
+            // call instance method
+            var baby1 = mary.ProcreateWith(harry);
+
+            // call static method
+            var baby2 = Person.Procreate(harry, jill);
+
+            var baby3 = harry * mary;
+
+            WriteLine($"{mary.Name} has {mary.Children.Count} children");
+            WriteLine($"{harry.Name} has {harry.Children.Count} children");
+            WriteLine($"{jill.Name} has {jill.Children.Count} children");
+            WriteLine($"{mary.Name}'s first child is named \"{mary.Children[0].Name}\".");
+
+            // factorial with local function
+            WriteLine($"5! is {Person.Factorial(5)}");
+
+            // Delegate example code
+            var p1 = new Person("Delegate");
+            
+            // normal way
+            int answer = p1.MethodIWantToCall(p1.Name);
+
+            // assign defined delegate function to variable
+            var d = new DelegateWithMatchingSignature(p1.MethodIWantToCall);
+            int delegatedAnswer = d("Frog");
+            WriteLine($"Delegated Answer: {delegatedAnswer}");
+
+            // delegate example
+            harry.Shout += Harry_Shout;
+            harry.Poke();
+            harry.Poke();
+            harry.Poke();
+            harry.Poke();
+
+            // Demonstrating Interfaces
+            Person[] people = 
+            {
+                new Person {Name = "Simon"},
+                new Person {Name = "Jenny"},
+                new Person {Name = "Adam"},
+                new Person {Name = "Richard"}
+            };
+
+            WriteLine("Initial List of people:");
+            foreach (var person in people)
+            {
+                WriteLine($"{person.Name}");
+            }
+
+            WriteLine("Use Person's IComparable implementation to sort:");
+            Array.Sort(people);
+            foreach (var person in people)
+            {
+                WriteLine($"{person.Name}");
+            }
+
+            // Using Custom IComparer implementation
+            WriteLine("Use PersonComparers IComparer implementation to sort:");
+            Array.Sort(people, new PersonComparer());
+            foreach (var person in people)
+            {
+                WriteLine($"{person.Name}");
+            }
+
+            // not using generics - generates warning - comparison not valid
+            var t = new Thing();
+            t.Data = 42;
+            WriteLine($"Thing: {t.Process("42")}");
+
+            // using generics - define type in <brackets>
+            var gt = new GenericThing<int>();
+            gt.Data = 42;
+            WriteLine($"GenericThing: {gt.Process("42")}");
+
+            // using generic methods in non-generic class
+            string number1 = "4";
+            WriteLine($"{number1} squared is {Squarer.Square<string>(number1)}");
+        }
+
+        private static void Harry_Shout(object sender, System.EventArgs e)
+        {
+            Person p = (Person)sender;
+            WriteLine($"{p.Name} is this angry: {p.AngerLevel}.");
+        }
+
+        // define delegate
+        delegate int DelegateWithMatchingSignature(string s);
+
+        /* 
+            Two predefined delgates from Microsoft 
+            
+            public delegate void EventHandler(object sender, EventArgs e);
+            public delegate void EventHandler<TEventArgs>(object sender, TEventArgs e);
+        */
+
+        static void Main(string[] args)
+        {
+            // Chapter05();
+            Chapter06();
         }
     }
 }

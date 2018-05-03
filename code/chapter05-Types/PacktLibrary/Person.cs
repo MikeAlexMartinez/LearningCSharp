@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Packt.CS7
 {
-    public partial class Person : Object
+    public partial class Person : IComparable<Person>
     {
         public string Name;
         public DateTime DateOfBirth;
@@ -82,6 +82,11 @@ namespace Packt.CS7
             x++;
             y++;
             z++;
+        }
+
+        public int CompareTo(Person other)
+        {
+            return Name.CompareTo(other.Name);
         }
     }
 }

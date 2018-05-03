@@ -1,0 +1,47 @@
+Chapter 6
+
+Covers:
+  - setting up a class library and console application
+  - simplifying methods with operators
+  - defining local functions
+  - raising and handling events
+  - implementing interfaces
+  - making types more reusable with generics
+  - managing memory with reference and value types.
+  - inheriting from classes
+  - casting within inheritance hierarchies.
+  - inheriting and extending .NET types
+
+Events are described as things that happen to objects. They provide a way
+for to exchange messages between two objects.
+
+Calling methods using Delegates
+  Uses function pointers.
+  A delegate is a typesafe method pointer. In other words, a delegate is the memory address
+  of a method that matches the same signature as the delegate so that it can be safely called.
+
+Implementing Interfaces
+
+If a type implements an interface it is making a promise to the rest of .NET
+to support a certain feature.
+
+Common interfaces:
+
+IComparable     CompareTo(other)   This defines a comparison method that a type uses to 
+                                   sort it's intances
+
+IComparer       Compare(first,     Defines comparison method that a secondary type
+                second)            implements in order to sort instances of a primary type
+
+IDisposable     Dispose()          Defines a disposal method to release unmanaged
+                                   resources.
+
+IFormattable    ToString(format,   Deinfes a culture-aware method to format the value
+                culture)           of an object into a string representaion.
+
+IFormatter      Serialize(stream,    Defines methods to convert an object to and from
+                object)              a stream of bytes for storage or transfer.
+                Deserialize(stream)
+
+IFormatProvider GetFormat(Type)    This defines methods to format inputs based on an
+                                   a language and region.

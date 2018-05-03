@@ -1,0 +1,5 @@
+Chapter 6
+
+It's good practice to return a new object if a method creates one.
+
+ 
