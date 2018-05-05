@@ -1,0 +1,10 @@
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter06-InterfacesAndInheritance/Questions/Ex02/bin/Debug/netcoreapp2.0/Ex02.deps.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter06-InterfacesAndInheritance/Questions/Ex02/bin/Debug/netcoreapp2.0/Ex02.runtimeconfig.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter06-InterfacesAndInheritance/Questions/Ex02/bin/Debug/netcoreapp2.0/Ex02.runtimeconfig.dev.json
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter06-InterfacesAndInheritance/Questions/Ex02/bin/Debug/netcoreapp2.0/Ex02.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter06-InterfacesAndInheritance/Questions/Ex02/bin/Debug/netcoreapp2.0/Ex02.pdb
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter06-InterfacesAndInheritance/Questions/Ex02/obj/Debug/netcoreapp2.0/Ex02.csproj.CoreCompileInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter06-InterfacesAndInheritance/Questions/Ex02/obj/Debug/netcoreapp2.0/Ex02.AssemblyInfoInputs.cache
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter06-InterfacesAndInheritance/Questions/Ex02/obj/Debug/netcoreapp2.0/Ex02.AssemblyInfo.cs
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter06-InterfacesAndInheritance/Questions/Ex02/obj/Debug/netcoreapp2.0/Ex02.dll
+/home/michael/Desktop/CSharp/LearningCSharp/code/chapter06-InterfacesAndInheritance/Questions/Ex02/obj/Debug/netcoreapp2.0/Ex02.pdb

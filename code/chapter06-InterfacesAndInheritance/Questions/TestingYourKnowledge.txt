@@ -1,5 +1,39 @@
 Chapter 6
 
-It's good practice to return a new object if a method creates one.
+1. What is a delegate?
 
- 
+Is a reference to another function whose signature matches your own, and can then be used
+to execute a task.
+
+2. What is an event?
+An event is used to communicate between distinct areas of a programme.
+
+3. How are a base class and a derived class related?
+a derived class has access to the methods available in the base class.
+
+4. What is the difference between is and as?
+'as' casts a class into another class and returns null if the cast isn't valid.
+'is' is a boolean operator and checks if a class is what we expect it to be. 
+
+5. which keyword is used to prevent a class from being derived from, or a method
+from being overridden?
+sealed
+
+6. which keyword is used to prevent a class from being instantiated with the new keyword?
+static
+
+7. Which keyword is used to allow a member to be overridden?
+virtual
+
+8. What's the difference between a destructor and a deconstructor?
+a destructor allows instructs the CLR to release any unmanaged resources.
+a deconstructor allows you to conveniently access properties in a data structure.
+
+9. what are the signatures of the constructors that all exceptions should have?
+NewException() : base() { }
+NewException(string message) : base(message) { }
+NewException(string message, Exception innerException) : base(message, innerException) { }
+
+10. What is an extension method and how do you define one?
+you can either extend a class with a partial file in the same namespace,
+or use the this keyword on the first parameter.

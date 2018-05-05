@@ -45,3 +45,51 @@ IFormatter      Serialize(stream,    Defines methods to convert an object to and
 
 IFormatProvider GetFormat(Type)    This defines methods to format inputs based on an
                                    a language and region.
+
+
+Managing memory
+There are two types of memory, stack and heap. Stack is fast but limited, heap is 
+slow but plentiful.
+
+class and struct both create types.
+
+class => memory for object on heap => reference stored on stack.
+
+struct => memory for object stored on stack.
+
+If a struct uses types that are not structs themselves these values are
+stored on the heap.
+
+Most common struct types: 
+  byte, sbyte, short, ushort, uint, long, ulong, float, double, decimal
+  char, bool
+  Color, Point, Rectangle
+
+Advice from Microsoft:
+  If all the fields int your type use 16 bytes or less of stack memory, your type
+  only uses struct types for it's fields and you won't derive from the type, you
+  should use a struct.
+
+When using a type that implements IDisposable one can ensure that it is
+removed by using the 'using' statement.
+
+by adding the new keyword to a property declaration we let the compiler know we are intentionally hiding a property. Instead of hiding a property it can be recommended to overide
+a method, providing the method can be over-riden (uses the virtual keyword.).
+
+Many real-world API's require that you mark your methods with the virtual keyword to
+allow methods to be overridden.
+
+You can prevent inheritance and overriding by applying the sealed keyword.
+
+Microsoft has applied extreme optimisiations to the string class so prevents overriding.
+
+You can store an object in it's base class implicitly
+
+To go the other way (base to child class) one needs to do so explicitly.
+
+To handle casting exceptions we can use the 'is' keywrod to verify a type
+is what we expect it to be.
+
+You should use 'is' and 'as' when casting between derived types.
+
+When defining your own exceptions you should use the same three constructors.

@@ -211,6 +211,75 @@ namespace PeopleApp
             // using generic methods in non-generic class
             string number1 = "4";
             WriteLine($"{number1} squared is {Squarer.Square<string>(number1)}");
+
+            byte number2 = 3;
+            WriteLine($"{number2} squared is {Squarer.Square<byte>(number2)}");
+
+            // Using Structs
+            var dv1 = new DisplacementVector(3, 5);
+            var dv2 = new DisplacementVector(-2, 7);
+            var dv3 = dv1 + dv2;
+            WriteLine($"({dv1.X}, {dv1.Y}) + ({dv2.X}, {dv2.Y}) = ({dv3.X}, {dv3.Y})");
+
+            // Using Employee (inheriting from Person)
+            Employee e1 = new Employee
+            {
+                Name = "John Jones",
+                DateOfBirth = new DateTime(1990, 7, 28)
+            };
+            e1.WriteToConsole();
+
+            e1.EmployeeCode = "JJ001";
+            e1.HireDate = new DateTime(2014, 11, 23);
+            WriteLine($"{e1.Name} was hired on {e1.HireDate:dd/MM/yy}");
+
+            // uses System.Object.ToString() until overriden.
+            WriteLine(e1.ToString());
+
+            // demonstrate difference between polymorphism and non-polymorphism
+            // "<blank> new" = non-polymorhpic
+            // "virtual override" = polymorphic
+            Employee aliceInEmployee = new Employee { Name = "Alice", EmployeeCode = "AA123" };
+            Person aliceInPerson = aliceInEmployee;
+            aliceInEmployee.WriteToConsole();
+            // doesn't use the WriteToConsole override
+            aliceInPerson.WriteToConsole();
+            WriteLine(aliceInEmployee.ToString());
+            // still uses overriden method in Employee Class
+            WriteLine(aliceInPerson.ToString());
+
+            // checking class is type we expect it to be.
+            if (aliceInPerson is Employee)
+            {
+                WriteLine($"{nameof(aliceInPerson)} IS an employee");
+                Employee e2 = (Employee)aliceInPerson;
+                // do something with e2
+            }
+
+            // or, convert is possible, if unavailable as returns null
+            Employee e3 = aliceInPerson as Employee;
+            if (e3 != null)
+            {
+                WriteLine($"{nameof(aliceInPerson)} AS an Employee");
+            }
+
+            // use custom exception
+            try
+            {
+                e1.TimeTravel(new DateTime(1999, 12, 31));
+                e1.TimeTravel(new DateTime(1950, 12, 25));
+            }
+            catch (PersonException ex)
+            {
+                WriteLine(ex.Message);
+            }
+
+            // adding methods to string
+            string email1 = "pamela@test.com";
+            string email2 = "pamela&test.com";
+
+            WriteLine($"{email1} is a valid e-mail address: {email2.IsValidEmail()}");
+            WriteLine($"{email2} is a valid e-mail address: {email1.IsValidEmail()}");
         }
 
         private static void Harry_Shout(object sender, System.EventArgs e)

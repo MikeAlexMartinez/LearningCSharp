@@ -1,8 +1,8 @@
 1. What are the four access modifiers and what do they do?
 public - accessible everywhere
 private - only accessible in the class code
-readonly - accessible by instances of the class, can't be modified
-public readonly - accessible everywhere, cant be modified.
+protected - accessible by instances of the class, can't be modified
+protected virtual - accessible everywhere, cant be modified.
 
 2. static, const, readonly
 static - value available across all instances of a class.

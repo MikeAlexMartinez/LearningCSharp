@@ -1,4 +1,5 @@
 using System;
+using static System.Console;
 
 namespace Packt.CS7
 {
@@ -67,6 +68,24 @@ namespace Packt.CS7
                     Shout(this, EventArgs.Empty);
                 }*/
                 Shout?.Invoke(this, EventArgs.Empty);
+            }
+        }
+
+        // overridden methods
+        public override string ToString()
+        {
+            return $"{Name} is a {base.ToString()}";
+        }
+
+        public void TimeTravel(DateTime when)
+        {
+            if (when <= DateOfBirth)
+            {
+                throw new PersonException("if you travel back in time to a date earlier than your own birth the universe will explode!");
+            }
+            else
+            {
+                WriteLine($"Welcome to {when:yyyy}!");
             }
         }
     }
